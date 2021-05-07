@@ -1,0 +1,78 @@
+<html>
+  <head>
+     <title>Research Questionnaire</title>
+     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" 
+	   integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+     <link rel="stylesheet" href="{{ url_for('static', filename='css/basic.css') }}">
+
+  </head>
+  <body>
+    <div class="container"><br>
+      <center>
+        <h1>Research Questionnaire Form</h1>
+      </center>
+    </div>
+
+    <div class=container><br>
+      <div class="row align-items-center justify-content-center">
+        <div class="col-md-5">
+          {% if not form_submitted %}
+          <div>
+            <form  action="/verify_user?selection={{next_page}}" method="post" role="form" id="userdata">
+              <div class="form-group">
+                <label for="netid">NetID:</label>
+                <input type="number" class="form-control" name="netid">
+                  <br>
+                <label for="age">Age:</label>
+                <input type="number" class="form-control" placeholder="years" name="age">
+                <br>
+                <label for="internet_use">For how many years have you been actively using internet?:</label>
+                <input type="number" class="form-control" placeholder="years" name="internet_use">
+                <br>
+              <br>
+
+            </div>
+              <br>													   
+              <center>
+                <button type="submit" id="submituser" class="btn btn-success">Submit</button>
+              </center>
+            </form>
+          </div>
+          {% endif %}
+          <br>
+
+          {% if user_exists and form_submitted %}
+          <div class="alert alert-fail" role="alert">
+            Form successfully submitted. Thank you!
+          </div>
+          {% endif %}
+
+          {% if not user_exists and form_submitted %}
+          <div class="alert alert-fail" role="alert">
+            Sorry, response wasn't submitted. Users are not allowed to submit more than one response.
+          </div>
+          {% endif %}
+  
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.0.min.js" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script>
+      $(document).ready(function(){
+      $('#submituser').click(function(e) {
+        e.preventDefault()
+        
+        if (!($("input").filter(function () {
+          return $.trim($(this).val()).length === 0
+        }).length == 0)) {
+            alert("Please fill all the fields.");
+        }
+        else {
+          $('#userdata').get(0).submit();
+        }
+      });
+    });
+    </script>
+    <!-- <script type="text/javascript" src="{{ url_for('static', filename='js/handler.js') }}"></script> -->
+  </body>
+</html> 

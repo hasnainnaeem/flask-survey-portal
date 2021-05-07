@@ -1,0 +1,219 @@
+<html>
+
+<head>
+  <title>Research Questionnaire</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+</head>
+
+<body>
+  <div class="container"><br>
+    <center>
+      <h2>Research Questionnaire Form</h2>
+    </center>
+  </div>
+
+  <div class="container"><br>
+    <h3>Instructions</h3>
+    <p>Please read the review below carefully and answer the questions afterwards.</p>
+    <h3>Review</h3>
+    <p>
+      I feel so worried as I’m writing this! Ordered a laptop battery (12 cell) and RAM. I received a 6 cell battery
+      and the incorrect RAM.
+      I returned the products to this merchant three weeks ago (and they were received),
+      but still have not received my refund. Let me tell you: I’m very irritated.
+    </p>
+    <h3>Questions</h3>
+    <form action="/submit_study2?userid={{userid}}" method="post" rule="form" id="study2-form-data">
+
+      <div id="q-type-2">
+        <ul>
+          {% for i in range(0, type_2_question_no): %}
+          <li id="{{type_2_ids[i]}}">
+            {{type_2_statements[i]}}
+            <br />
+            {{type_2_min[i]}} &nbsp;
+            <input value = "{{type_2_ids[i]}}" type="hidden" name="2-{{i}}-id">
+            <div class="form-check form-check-inline">
+              <input class="form-check-input" type="radio" name="2-{{i}}-radio" id="2-{{i}}-radio-1" value="option1" />
+              <label class="form-check-label" for="2-{{i}}-radio-1">1</label>
+            </div>
+
+            <div class="form-check form-check-inline"  >
+                <input class=" form-check-input" type="radio" name="2-{{i}}-radio" id="2-{{i}}-radio-2"
+              value="option2" />
+            <label class="form-check-label" for="2-{{i}}-radio-2">2</label>
+            </div>
+
+            <div class="form-check form-check-inline"  >
+                            <input class=" form-check-input" type="radio" name="2-{{i}}-radio" id="2-{{i}}-radio-3"
+              value="option3" />
+            <label class="form-check-label" for="2-{{i}}-radio-3">3</label>
+            </div>
+
+            <div class="form-check form-check-inline"  >
+                                  <input class=" form-check-input" type="radio" name="2-{{i}}-radio" id="2-{{i}}-radio-4"
+              value="option4" />
+            <label class="form-check-label" for="2-{{i}}-radio-4">4</label>
+            </div>
+
+            <div class="form-check form-check-inline"  >
+                                  <input class=" form-check-input" type="radio" name="2-{{i}}-radio" id="2-{{i}}-radio-5"
+              value="option5" />
+            <label class="form-check-label" for="2-{{i}}-radio-5">5</label>
+            </div>
+
+            <div class="form-check form-check-inline"  >
+                                  <input class=" form-check-input" type="radio" name="2-{{i}}-radio" id="2-{{i}}-radio-6"
+              value="option6" />
+            <label class="form-check-label" for="2-{{i}}-radio-6">6</label>
+            </div>
+
+            <div class="form-check form-check-inline"  >
+                                  <input class=" form-check-input" type="radio" name="2-{{i}}-radio" id="2-{{i}}-radio-7"
+              value="option7" />
+            <label class="form-check-label" for="2-{{i}}-radio-7">7</label>
+            </div>
+
+            <div class="form-check form-check-inline"  >
+                                  <input class=" form-check-input" type="radio" name="2-{{i}}-radio" id="2-{{i}}-radio-8"
+              value="option8" />
+            <label class="form-check-label" for="2-{{i}}-radio-8">8</label>
+            </div>
+
+            <div class="form-check form-check-inline"  >
+                                  <input class=" form-check-input" type="radio" name="2-{{i}}-radio" id="2-{{i}}-radio-9"
+              value="option9" />
+            <label class="form-check-label" for="2-{{i}}-radio-9">9</label>
+            </div>
+            {{type_2_max[i]}}
+            </li>
+
+            <br />
+            {% endfor %}
+            </ul>
+          </div>
+
+          <div id="q-type-1">
+          <ul>
+            {% for i in range(0, type_1_question_no): %}
+            <li id="{{type_1_ids[i]}}">{{type_1_statements[i]}}
+              <br />
+              {{type_1_min[i]}} &nbsp;
+              <input value = "{{type_1_ids[i]}}" type="hidden" name="1-{{i}}-id">
+              <div class="form-check form-check-inline"  >
+                                <input class=" form-check-input" type="radio" name="1-{{i}}-radio" id="1-{{i}}-radio-1"
+                value="option1" />
+              <label class="form-check-label" for="1-{{i}}-radio-1">1</label>
+              </div>
+
+              <div class="form-check form-check-inline"  >
+                                <input class=" form-check-input" type="radio" name="1-{{i}}-radio" id="1-{{i}}-radio-2"
+                value="option2" />
+              <label class="form-check-label" for="1-{{i}}-radio-2">2</label>
+              </div>
+
+              <div class="form-check form-check-inline"  >
+                                <input class=" form-check-input" type="radio" name="1-{{i}}-radio" id="1-{{i}}-radio-3"
+                value="option3" />
+              <label class="form-check-label" for="1-{{i}}-radio-3">3</label>
+              </div>
+
+              <div class="form-check form-check-inline"  >
+                                <input class=" form-check-input" type="radio" name="1-{{i}}-radio" id="1-{{i}}-radio-4"
+                value="option4" />
+              <label class="form-check-label" for="1-{{i}}-radio-4">4</label>
+              </div>
+
+              <div class="form-check form-check-inline"  >
+                                <input class=" form-check-input" type="radio" name="1-{{i}}-radio" id="1-{{i}}-radio-5"
+                value="option5" />
+              <label class="form-check-label" for="1-{{i}}-radio-5">5</label>
+              </div>
+
+              <div class="form-check form-check-inline"  >
+                                <input class=" form-check-input" type="radio" name="1-{{i}}-radio" id="1-{{i}}-radio-6"
+                value="option6" />
+              <label class="form-check-label" for="1-{{i}}-radio-6">6</label>
+              </div>
+
+              <div class="form-check form-check-inline"  >
+                                <input class=" form-check-input" type="radio" name="1-{{i}}-radio" id="1-{{i}}-radio-7"
+                value="option7" />
+              <label class="form-check-label" for="1-{{i}}-radio-7">7</label>
+              </div>
+
+              <div class="form-check form-check-inline"  >
+                                <input class=" form-check-input" type="radio" name="1-{{i}}-radio" id="1-{{i}}-radio-8"
+                value="option8" />
+              <label class="form-check-label" for="1-{{i}}-radio-8">8</label>
+              </div>
+
+              <div class="form-check form-check-inline"  >
+                                <input class=" form-check-input" type="radio" name="1-{{i}}-radio" id="1-{{i}}-radio-9"
+                value="option9" />
+              <label class="form-check-label" for="1-{{i}}-radio-9">9</label>
+              </div>
+              {{type_1_max[i]}}
+            </li>
+            </br>
+            {% endfor %}
+      </ul>
+    </div>
+    <br>													   
+    <center>
+      <button type="submit" id="submit-study2-button" class="btn btn-success">Submit</button>
+    </center>
+  </form>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.5.0.min.js" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  <script>
+    $(document).ready(function(){
+    $('#submit-study2-button').click(function(e) {
+      e.preventDefault()
+      let type_1_question_no = '{{type_1_question_no}}';
+      let type_2_question_no = '{{type_2_question_no}}';
+
+      is_form_filled = false
+
+      let i = 0, j =0;
+      // check if type 1 questions are answers
+      for(i=0; i < type_1_question_no; i++){
+        radio_name = "1-" + i + "-radio";
+        if ($("input[name='"+radio_name+"']:checked").length > 0){
+          // do nothing
+          console.log(radio_name + " is checked.")
+        }
+        else {
+          alert("Please answer all the questions.");
+          break;
+        }
+      }
+      
+      if (i == type_1_question_no){
+        // check if type 2 questions are answers
+        for(j=0; i < type_2_question_no; j++){
+          radio_name = "2-" + j + "-radio";
+          if ($("input[name='"+radio_name+"']:checked").length > 0){
+            // do nothing
+            console.log(radio_name + " is checked.")
+          }
+          else {
+            // alert("Please answer all the questions.");
+            break;
+          }
+        }
+      }
+      
+      if (i == type_1_question_no && j == type_2_question_no){
+        $('#study2-form-data').get(0).submit();
+      }
+
+      })
+    });
+  </script>
+</body>
+</html>

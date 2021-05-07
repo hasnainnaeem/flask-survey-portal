@@ -1,0 +1,19 @@
+id,statement,type,min,max
+0,"In your opinion, to what extent does each of the following words describe how the reviewer felt when he/she wrote the above review?",1,Not at all angry,Very angry
+1,"In your opinion, to what extent does each of the following words describe how the reviewer felt when he/she wrote the above review?",1,Not at all anxious,Very anxious
+2,"Using the scales below, how would you describe the above consumer review?",1,Not at all helpful,Very helpful
+3,"Using the scales below, how would you describe the above consumer review?",1,Not at all useful,Very useful
+4,"Using the scales below, how would you describe the above consumer review?",1,Not at all informative,Very informative
+5,"In your opinion, how much effort had the reviewer put into writing this review?",1,No effort at all,A lot of effort
+6,"In your opinion, how much thought had the reviewer given to the above review when he/she wrote it?",1,No thought at all,A lot of thought
+7,"In your opinion, how much time did the reviewer spent writing this review?",1,No time at all,A lot of time
+8,"Overall, how would you describe the customer’s feelings regarding the experience he/she wrote in the review above?",2,Very bad,Very good
+9,"Overall, how would you describe the customer’s feelings regarding the experience he/she wrote in the review above?",2,Very unpleasant,Very pleasant
+10,"Overall, how would you describe the customer’s feelings regarding the experience he/she wrote in the review above?",2,Very unfavorable,Very favorable
+11,"Using the scales below, how do you think the reviewer was feeling at the time that he/she wrote the review?",2,Very passive,Very active
+12,"Using the scales below, how do you think the reviewer was feeling at the time that he/she wrote the review?",2,Very mellow,Very fired up
+13,"Using the scales below, how do you think the reviewer was feeling at the time that he/she wrote the review?",2,Very low energy level,Very high energy level
+14,"There are a wide variety of reasons that customers might write a store review. Rate the extent to which you agree with the following statements. 'The cause of the review was something about the reviewer'",2,Strongly disagree,Strongly Agree
+15,"While reading this review, to what extent did you feel like you were experiencing the same emotions as the reviewer?",2,Not at all,Very much
+16,"While reading this review, to what extent did you feel concerned for the reviewer?",2,Not at all,Very much
+17,"While reading this review, to what extent did you feel moved by the review?",2,Not at all,Very much

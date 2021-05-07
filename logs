@@ -1,0 +1,1004 @@
+05/07/2021 17:17:26 - INFO - _internal.py - _log - 113 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+05/07/2021 17:17:26 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 17:17:27 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 17:17:27 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 17:17:33 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:17:33] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 17:17:33 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:17:33] "[37mGET /static/css/basic.css HTTP/1.1[0m" 200 -
+05/07/2021 17:19:42 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 17:19:42 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 17:19:43 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 17:19:43 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 17:20:24 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 17:20:24 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 17:20:25 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 17:20:25 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 17:20:25 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:20:25] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 17:22:33 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:22:33] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 17:24:26 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:24:26] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 17:24:27 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:24:27] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 17:24:33 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:24:33] "[33mGET /index?selection= HTTP/1.1[0m" 404 -
+05/07/2021 17:25:07 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:25:07] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 17:25:20 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:25:20] "[33mGET /index?selection=study1 HTTP/1.1[0m" 404 -
+05/07/2021 17:29:16 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:29:16] "[33mGET /index?selection=study1 HTTP/1.1[0m" 404 -
+05/07/2021 17:29:19 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:29:19] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 17:29:42 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:29:42] "[33mGET /index?selection=study1 HTTP/1.1[0m" 404 -
+05/07/2021 17:33:23 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 17:33:23 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 17:34:16 - INFO - _internal.py - _log - 113 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+05/07/2021 17:34:16 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 17:34:17 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 17:34:17 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 17:34:18 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:34:18] "[33mGET /index?selection=study1 HTTP/1.1[0m" 404 -
+05/07/2021 17:34:27 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:34:27] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 17:34:29 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:34:29] "[33mGET /index?selection=study2 HTTP/1.1[0m" 404 -
+05/07/2021 17:34:47 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:34:47] "[33mGET /index?selection=study2 HTTP/1.1[0m" 404 -
+05/07/2021 17:34:49 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:34:49] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 17:34:51 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:34:51] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 17:34:52 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:34:52] "[37mGET /userinfo?selection=study2 HTTP/1.1[0m" 200 -
+05/07/2021 17:34:53 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:34:53] "[37mGET /static/css/basic.css HTTP/1.1[0m" 200 -
+05/07/2021 17:35:05 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 17:35:07 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:35:07] "[37mPOST /verify_user HTTP/1.1[0m" 200 -
+05/07/2021 17:40:25 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 17:40:25 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 17:41:12 - INFO - _internal.py - _log - 113 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+05/07/2021 17:41:12 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 17:41:13 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 17:41:13 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 17:41:14 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:41:14] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 17:41:18 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:41:18] "[37mGET /userinfo?selection=study2 HTTP/1.1[0m" 200 -
+05/07/2021 17:41:27 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 17:41:29 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:41:29] "[35m[1mPOST /verify_user?selection=study2 HTTP/1.1[0m" 500 -
+05/07/2021 17:41:30 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:41:30] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/07/2021 17:41:30 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:41:30] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/07/2021 17:41:30 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:41:30] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/07/2021 17:41:30 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:41:30] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/07/2021 17:41:30 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:41:30] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/07/2021 17:49:28 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:49:28] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 17:49:31 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:49:31] "[37mGET /userinfo?selection=study2 HTTP/1.1[0m" 200 -
+05/07/2021 17:52:12 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 17:52:12 - ERROR - dbConnector.py - add_user - 58 : UNIQUE constraint failed: users.netid
+Traceback (most recent call last):
+  File "/home/hasnain/Desktop/codes/survey_portal-study2/dbConnector.py", line 55, in add_user
+    c.execute(f"INSERT INTO users (netid, age, internet_use) VALUES ({netid}, {age}, {internet_use});")
+sqlite3.IntegrityError: UNIQUE constraint failed: users.netid
+05/07/2021 17:52:12 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:52:12] "[37mPOST /verify_user?selection=study2 HTTP/1.1[0m" 200 -
+05/07/2021 17:52:25 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 17:52:26 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:52:26] "[35m[1mPOST /verify_user?selection=study2 HTTP/1.1[0m" 500 -
+05/07/2021 17:52:26 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:52:26] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/07/2021 17:52:26 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:52:26] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/07/2021 17:52:26 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:52:26] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/07/2021 17:52:26 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:52:26] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/07/2021 17:52:26 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:52:26] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/07/2021 17:57:13 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 17:57:13 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 17:57:13 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 17:57:13 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 17:57:18 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:57:18] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 17:57:20 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:57:20] "[37mGET /userinfo?selection=study2 HTTP/1.1[0m" 200 -
+05/07/2021 17:57:24 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 17:57:26 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:57:26] "[35m[1mPOST /verify_user?selection=study2 HTTP/1.1[0m" 500 -
+05/07/2021 17:57:26 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:57:26] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/07/2021 17:57:26 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:57:26] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/07/2021 17:57:26 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:57:26] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/07/2021 17:57:26 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 17:57:26] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/07/2021 18:00:09 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 18:00:09 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 18:00:10 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 18:00:10 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 18:00:16 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 18:00:16 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 18:00:16 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 18:00:16 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 18:00:20 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 18:00:20 - ERROR - dbConnector.py - add_user - 58 : UNIQUE constraint failed: users.netid
+Traceback (most recent call last):
+  File "/home/hasnain/Desktop/codes/survey_portal-study2/dbConnector.py", line 55, in add_user
+    c.execute(f"INSERT INTO users (netid, age, internet_use) VALUES ({netid}, {age}, {internet_use});")
+sqlite3.IntegrityError: UNIQUE constraint failed: users.netid
+05/07/2021 18:00:20 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 18:00:20] "[37mPOST /verify_user?selection=study2 HTTP/1.1[0m" 200 -
+05/07/2021 18:00:25 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 18:00:29 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 18:00:29] "[35m[1mPOST /verify_user?selection=study2 HTTP/1.1[0m" 500 -
+05/07/2021 18:00:29 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 18:00:29] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/07/2021 18:00:29 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 18:00:29] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/07/2021 18:00:29 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 18:00:29] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/07/2021 18:00:29 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 18:00:29] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/07/2021 18:00:29 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 18:00:29] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/07/2021 18:00:47 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 18:00:47 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 18:00:47 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 18:00:47 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 18:00:48 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 18:00:48 - ERROR - dbConnector.py - add_user - 58 : UNIQUE constraint failed: users.netid
+Traceback (most recent call last):
+  File "/home/hasnain/Desktop/codes/survey_portal-study2/dbConnector.py", line 55, in add_user
+    c.execute(f"INSERT INTO users (netid, age, internet_use) VALUES ({netid}, {age}, {internet_use});")
+sqlite3.IntegrityError: UNIQUE constraint failed: users.netid
+05/07/2021 18:00:48 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 18:00:48] "[37mPOST /verify_user?selection=study2 HTTP/1.1[0m" 200 -
+05/07/2021 18:00:52 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 18:00:52 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 18:00:52] "[32mPOST /verify_user?selection=study2 HTTP/1.1[0m" 302 -
+05/07/2021 18:00:52 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 18:00:52] "[37mGET /study2?userid={{netid}} HTTP/1.1[0m" 200 -
+05/07/2021 18:01:33 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 18:01:33 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 18:01:34 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 18:01:34 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 18:01:36 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 18:01:36 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 18:01:36] "[32mPOST /verify_user?selection=study2 HTTP/1.1[0m" 302 -
+05/07/2021 18:01:36 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 18:01:36] "[37mGET /study2?userid=1232131231231332212 HTTP/1.1[0m" 200 -
+05/07/2021 18:04:20 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 18:04:20] "[37mGET /study2?userid=1232131231231332212 HTTP/1.1[0m" 200 -
+05/07/2021 18:05:21 - INFO - main.py - submit_study2 - 41 : application/x-www-form-urlencoded
+05/07/2021 18:05:27 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 18:05:27] "[37mPOST /submit_study2?userid=1232131231231332212 HTTP/1.1[0m" 200 -
+05/07/2021 18:08:32 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 18:08:32] "[37mGET /study2?userid=92394923 HTTP/1.1[0m" 200 -
+05/07/2021 18:09:16 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 18:09:16] "[37mGET /study2?userid=92394923 HTTP/1.1[0m" 200 -
+05/07/2021 18:09:23 - INFO - main.py - submit_study2 - 41 : application/x-www-form-urlencoded
+05/07/2021 18:09:47 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 18:09:47] "[37mPOST /submit_study2?userid=92394923 HTTP/1.1[0m" 200 -
+05/07/2021 18:59:31 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 18:59:31] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 18:59:34 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 18:59:34] "[37mGET /userinfo?selection=study2 HTTP/1.1[0m" 200 -
+05/07/2021 18:59:43 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 18:59:43 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 18:59:43] "[32mPOST /verify_user?selection=study2 HTTP/1.1[0m" 302 -
+05/07/2021 18:59:43 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 18:59:43] "[37mGET /study2?userid=8942398742398 HTTP/1.1[0m" 200 -
+05/07/2021 19:08:13 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 19:08:13 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 19:08:13 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 19:08:13 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 19:08:19 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:08:19] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 19:08:22 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:08:22] "[37mGET /userinfo?selection=study2 HTTP/1.1[0m" 200 -
+05/07/2021 19:08:26 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 19:08:26 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:08:26] "[35m[1mPOST /verify_user?selection=study2 HTTP/1.1[0m" 500 -
+05/07/2021 19:08:26 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:08:26] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/07/2021 19:08:26 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:08:26] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/07/2021 19:08:26 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:08:26] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/07/2021 19:08:26 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:08:26] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/07/2021 19:08:26 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:08:26] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/07/2021 19:09:25 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 19:09:25 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 19:09:40 - INFO - _internal.py - _log - 113 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+05/07/2021 19:09:40 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 19:09:40 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 19:09:40 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 19:09:43 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 19:09:46 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:09:46] "[35m[1mPOST /verify_user?selection=study2 HTTP/1.1[0m" 500 -
+05/07/2021 19:09:46 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:09:46] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/07/2021 19:09:46 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:09:46] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/07/2021 19:09:46 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:09:46] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/07/2021 19:09:46 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:09:46] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/07/2021 19:11:51 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 19:11:52 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 19:11:52 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 19:11:52 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 19:12:18 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 19:12:18 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 19:12:18 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 19:12:18 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 19:12:30 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 19:12:30 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 19:12:31 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 19:12:31 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 19:12:34 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 19:12:36 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:12:36] "[35m[1mPOST /verify_user?selection=study2 HTTP/1.1[0m" 500 -
+05/07/2021 19:12:36 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:12:36] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/07/2021 19:12:36 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:12:36] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/07/2021 19:12:36 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:12:36] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/07/2021 19:12:36 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:12:36] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/07/2021 19:12:51 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 19:12:51 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 19:12:52 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 19:12:52 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 19:12:58 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 19:12:58 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:12:58] "[35m[1mPOST /verify_user?selection=study2 HTTP/1.1[0m" 500 -
+05/07/2021 19:12:58 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:12:58] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/07/2021 19:12:58 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:12:58] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/07/2021 19:12:58 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:12:58] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/07/2021 19:12:58 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:12:58] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/07/2021 19:15:36 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 19:15:36 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 19:15:36 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 19:15:36 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 19:15:42 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 19:15:43 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 19:15:43 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 19:15:43 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 19:15:46 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 19:15:46 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 19:15:47 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 19:15:47 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 19:15:49 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 19:15:51 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:15:51] "[35m[1mPOST /verify_user?selection=study2 HTTP/1.1[0m" 500 -
+05/07/2021 19:15:51 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:15:51] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/07/2021 19:15:51 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:15:51] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/07/2021 19:15:51 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:15:51] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/07/2021 19:15:51 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:15:51] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/07/2021 19:15:57 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 19:15:58 - ERROR - dbConnector.py - add_user - 58 : UNIQUE constraint failed: users.netid
+Traceback (most recent call last):
+  File "/home/hasnain/Desktop/codes/survey_portal-study2/dbConnector.py", line 55, in add_user
+    c.execute(f"INSERT INTO users (netid, age, internet_use) VALUES ({netid}, {age}, {internet_use});")
+sqlite3.IntegrityError: UNIQUE constraint failed: users.netid
+05/07/2021 19:15:58 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:15:58] "[37mPOST /verify_user?selection=study2 HTTP/1.1[0m" 200 -
+05/07/2021 19:16:04 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 19:16:04 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:16:04] "[35m[1mPOST /verify_user?selection=study2 HTTP/1.1[0m" 500 -
+05/07/2021 19:16:04 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:16:04] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/07/2021 19:16:04 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:16:04] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/07/2021 19:16:04 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:16:04] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/07/2021 19:16:04 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:16:04] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/07/2021 19:16:04 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:16:04] "[37mGET /verify_user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/07/2021 19:17:19 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 19:17:19 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 19:17:19 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 19:17:19 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 19:17:25 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 19:17:26 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:17:26] "[37mPOST /verify_user?selection=study2 HTTP/1.1[0m" 200 -
+05/07/2021 19:18:07 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 19:18:07 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 19:18:07 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 19:18:07 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 19:22:24 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 19:22:24 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 19:22:24 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 19:22:24 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 19:24:48 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:24:48] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 19:37:43 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 19:37:44 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 19:37:44 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 19:37:44 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 19:37:59 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 19:38:00 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 19:38:00 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 19:38:00 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 19:38:39 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 19:38:39 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 19:38:39 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 19:38:39 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 19:41:06 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 19:41:06 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 19:41:06 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 19:41:06 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 19:42:27 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 19:42:28 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 19:42:28 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 19:42:28 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 19:42:47 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 19:42:48 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 19:42:48 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 19:42:48 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 19:42:50 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 19:42:50 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 19:42:51 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 19:42:51 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 19:42:54 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:42:54] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 19:43:01 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:43:01] "[37mGET /userinfo?selection=study2 HTTP/1.1[0m" 200 -
+05/07/2021 19:43:07 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 19:43:08 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:43:08] "[32mPOST /verify_user?selection=study2 HTTP/1.1[0m" 302 -
+05/07/2021 19:43:08 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:43:08] "[37mGET /study2?userid=342348230 HTTP/1.1[0m" 200 -
+05/07/2021 19:43:17 - INFO - main.py - submit_study2 - 43 : application/x-www-form-urlencoded
+05/07/2021 19:43:21 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:43:21] "[35m[1mPOST /submit_study2?userid=342348230 HTTP/1.1[0m" 500 -
+05/07/2021 19:43:21 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:43:21] "[37mGET /submit_study2?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/07/2021 19:43:21 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:43:21] "[37mGET /submit_study2?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/07/2021 19:43:21 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:43:21] "[37mGET /submit_study2?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/07/2021 19:43:21 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:43:21] "[37mGET /submit_study2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/07/2021 19:43:33 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 19:43:33 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 19:43:34 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 19:43:34 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 149-031-095
+05/07/2021 19:43:38 - INFO - main.py - submit_study2 - 43 : application/x-www-form-urlencoded
+05/07/2021 19:43:44 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:43:44] "[37mPOST /submit_study2?userid=342348230 HTTP/1.1[0m" 200 -
+05/07/2021 19:43:48 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:43:48] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 19:43:51 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:43:51] "[37mGET /userinfo?selection=study2 HTTP/1.1[0m" 200 -
+05/07/2021 19:43:58 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 19:43:59 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:43:59] "[32mPOST /verify_user?selection=study2 HTTP/1.1[0m" 302 -
+05/07/2021 19:43:59 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:43:59] "[37mGET /study2?userid=238428 HTTP/1.1[0m" 200 -
+05/07/2021 19:44:03 - INFO - main.py - submit_study2 - 43 : application/x-www-form-urlencoded
+05/07/2021 19:44:04 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:44:04] "[37mPOST /submit_study2?userid=238428 HTTP/1.1[0m" 200 -
+05/07/2021 19:44:12 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:44:12] "[37mGET /study2?userid=432423 HTTP/1.1[0m" 200 -
+05/07/2021 19:44:16 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:44:16] "[37mGET /study2?userid=12312 HTTP/1.1[0m" 200 -
+05/07/2021 19:44:22 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:44:22] "[37mGET /study2?userid=238428 HTTP/1.1[0m" 200 -
+05/07/2021 19:45:55 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:45:55] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 19:45:57 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:45:57] "[37mGET /userinfo?selection=study2 HTTP/1.1[0m" 200 -
+05/07/2021 19:46:05 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 19:46:05 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:46:05] "[32mPOST /verify_user?selection=study2 HTTP/1.1[0m" 302 -
+05/07/2021 19:46:05 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:46:05] "[37mGET /study2?userid=23209 HTTP/1.1[0m" 200 -
+05/07/2021 19:46:55 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:46:55] "[37mGET /study2?userid=23209 HTTP/1.1[0m" 200 -
+05/07/2021 19:48:37 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:48:37] "[37mGET /study2?userid=23209 HTTP/1.1[0m" 200 -
+05/07/2021 19:49:05 - INFO - main.py - submit_study2 - 43 : application/x-www-form-urlencoded
+05/07/2021 19:49:13 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:49:13] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 19:49:16 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:49:16] "[37mGET /userinfo?selection=study2 HTTP/1.1[0m" 200 -
+05/07/2021 19:49:18 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:49:18] "[37mPOST /submit_study2?userid=23209 HTTP/1.1[0m" 200 -
+05/07/2021 19:49:25 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 19:49:25 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:49:25] "[32mPOST /verify_user?selection=study2 HTTP/1.1[0m" 302 -
+05/07/2021 19:49:25 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:49:25] "[37mGET /study2?userid=42834293 HTTP/1.1[0m" 200 -
+05/07/2021 19:50:07 - INFO - main.py - submit_study2 - 43 : application/x-www-form-urlencoded
+05/07/2021 19:50:17 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 19:50:17] "[37mPOST /submit_study2?userid=42834293 HTTP/1.1[0m" 200 -
+05/07/2021 20:50:00 - INFO - _internal.py - _log - 113 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+05/07/2021 20:50:00 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 20:50:01 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 20:50:01 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 20:50:02 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 20:50:02] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 20:50:02 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 20:50:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+05/07/2021 20:50:04 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 20:50:04] "[37mGET /userinfo?selection=study2 HTTP/1.1[0m" 200 -
+05/07/2021 20:52:37 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 20:52:37 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 20:52:37] "[32mPOST /verify_user?selection=study2 HTTP/1.1[0m" 302 -
+05/07/2021 20:52:37 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 20:52:37] "[37mGET /study2?userid=9023029 HTTP/1.1[0m" 200 -
+05/07/2021 20:53:07 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 20:53:07] "[37mGET /study2?userid=9023029 HTTP/1.1[0m" 200 -
+05/07/2021 20:54:38 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 20:54:38] "[37mGET /study2?userid=9023029 HTTP/1.1[0m" 200 -
+05/07/2021 20:59:13 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 20:59:13] "[37mGET /study2?userid=9023029 HTTP/1.1[0m" 200 -
+05/07/2021 20:59:33 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 20:59:33] "[37mGET /study2?userid=9023029 HTTP/1.1[0m" 200 -
+05/07/2021 20:59:52 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 20:59:52] "[37mGET /study2?userid=9023029 HTTP/1.1[0m" 200 -
+05/07/2021 20:59:53 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 20:59:53] "[37mGET /study2?userid=9023029 HTTP/1.1[0m" 200 -
+05/07/2021 21:00:26 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:00:26] "[37mGET /study2?userid=9023029 HTTP/1.1[0m" 200 -
+05/07/2021 21:02:06 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:02:06] "[37mGET /study2?userid=9023029 HTTP/1.1[0m" 200 -
+05/07/2021 21:03:23 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:03:23] "[37mGET /study2?userid=9023029 HTTP/1.1[0m" 200 -
+05/07/2021 21:05:12 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:05:12] "[37mGET /study2?userid=9023029 HTTP/1.1[0m" 200 -
+05/07/2021 21:06:13 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:06:13] "[37mGET /study2?userid=9023029 HTTP/1.1[0m" 200 -
+05/07/2021 21:06:25 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:06:25] "[37mGET /study2?userid=9023029 HTTP/1.1[0m" 200 -
+05/07/2021 21:06:44 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:06:44] "[37mGET /study2?userid=9023029 HTTP/1.1[0m" 200 -
+05/07/2021 21:07:46 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:07:46] "[37mGET /study2?userid=9023029 HTTP/1.1[0m" 200 -
+05/07/2021 21:08:08 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:08:08] "[37mGET /study2?userid=9023029 HTTP/1.1[0m" 200 -
+05/07/2021 21:09:01 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:09:01] "[37mGET /study2?userid=9023029 HTTP/1.1[0m" 200 -
+05/07/2021 21:09:24 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:09:24] "[37mGET /study2?userid=9023029 HTTP/1.1[0m" 200 -
+05/07/2021 21:09:43 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:09:43] "[37mGET /study2?userid=9023029 HTTP/1.1[0m" 200 -
+05/07/2021 21:09:55 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:09:55] "[37mGET /study2?userid=9023029 HTTP/1.1[0m" 200 -
+05/07/2021 21:14:27 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:14:27] "[37mGET /study2?userid=9023029 HTTP/1.1[0m" 200 -
+05/07/2021 21:15:41 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:15:41] "[37mGET /study2?userid=9023029 HTTP/1.1[0m" 200 -
+05/07/2021 21:17:47 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:17:47] "[37mGET /study2?userid=9023029 HTTP/1.1[0m" 200 -
+05/07/2021 21:18:15 - INFO - main.py - submit_study2 - 43 : application/x-www-form-urlencoded
+05/07/2021 21:18:22 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:18:22] "[37mPOST /submit_study2?userid=9023029 HTTP/1.1[0m" 200 -
+05/07/2021 21:19:14 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:19:14] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 21:19:16 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:19:16] "[37mGET /userinfo?selection=study2 HTTP/1.1[0m" 200 -
+05/07/2021 21:19:19 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 21:19:20 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:19:20] "[32mPOST /verify_user?selection=study2 HTTP/1.1[0m" 302 -
+05/07/2021 21:19:20 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:19:20] "[37mGET /study2?userid=3321342342 HTTP/1.1[0m" 200 -
+05/07/2021 21:20:04 - INFO - main.py - submit_study2 - 43 : application/x-www-form-urlencoded
+05/07/2021 21:20:13 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:20:13] "[37mPOST /submit_study2?userid=3321342342 HTTP/1.1[0m" 200 -
+05/07/2021 21:20:46 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:20:46] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 21:20:48 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:20:48] "[37mGET /userinfo?selection=study2 HTTP/1.1[0m" 200 -
+05/07/2021 21:20:51 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 21:20:51 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:20:51] "[32mPOST /verify_user?selection=study2 HTTP/1.1[0m" 302 -
+05/07/2021 21:20:51 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:20:51] "[37mGET /study2?userid=23423 HTTP/1.1[0m" 200 -
+05/07/2021 21:21:22 - INFO - main.py - submit_study2 - 43 : application/x-www-form-urlencoded
+05/07/2021 21:21:25 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:21:25] "[37mPOST /submit_study2?userid=23423 HTTP/1.1[0m" 200 -
+05/07/2021 21:22:20 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:22:20] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 21:22:22 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:22:22] "[37mGET /userinfo?selection=study2 HTTP/1.1[0m" 200 -
+05/07/2021 21:22:26 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 21:22:27 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:22:27] "[32mPOST /verify_user?selection=study2 HTTP/1.1[0m" 302 -
+05/07/2021 21:22:27 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:22:27] "[37mGET /study2?userid=30924209 HTTP/1.1[0m" 200 -
+05/07/2021 21:22:50 - INFO - main.py - submit_study2 - 43 : application/x-www-form-urlencoded
+05/07/2021 21:22:56 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:22:56] "[37mPOST /submit_study2?userid=30924209 HTTP/1.1[0m" 200 -
+05/07/2021 21:23:12 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:23:12] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 21:23:14 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:23:14] "[37mGET /userinfo?selection=study2 HTTP/1.1[0m" 200 -
+05/07/2021 21:23:18 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 21:23:18 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:23:18] "[32mPOST /verify_user?selection=study2 HTTP/1.1[0m" 302 -
+05/07/2021 21:23:18 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:23:18] "[37mGET /study2?userid=2423 HTTP/1.1[0m" 200 -
+05/07/2021 21:23:29 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:23:29] "[37mGET /study2?userid=2423 HTTP/1.1[0m" 200 -
+05/07/2021 21:23:51 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:23:51] "[37mGET /study2?userid=2423 HTTP/1.1[0m" 200 -
+05/07/2021 21:23:54 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:23:54] "[37mGET /study2?userid=2423 HTTP/1.1[0m" 200 -
+05/07/2021 21:24:31 - INFO - main.py - submit_study2 - 43 : application/x-www-form-urlencoded
+05/07/2021 21:24:44 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:24:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+05/07/2021 21:24:47 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:24:47] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 21:24:49 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:24:49] "[37mGET /userinfo?selection=study2 HTTP/1.1[0m" 200 -
+05/07/2021 21:24:52 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:24:52] "[37mPOST /submit_study2?userid=2423 HTTP/1.1[0m" 200 -
+05/07/2021 21:24:54 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 21:24:55 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:24:55] "[32mPOST /verify_user?selection=study2 HTTP/1.1[0m" 302 -
+05/07/2021 21:24:55 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:24:55] "[37mGET /study2?userid=324234 HTTP/1.1[0m" 200 -
+05/07/2021 21:25:17 - INFO - main.py - submit_study2 - 43 : application/x-www-form-urlencoded
+05/07/2021 21:25:35 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 21:25:35] "[37mPOST /submit_study2?userid=324234 HTTP/1.1[0m" 200 -
+05/07/2021 22:20:22 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/dbConnector.py', reloading
+05/07/2021 22:20:22 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 22:31:45 - INFO - _internal.py - _log - 113 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+05/07/2021 22:31:45 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 22:31:46 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 22:31:46 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 22:31:47 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:31:47] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 22:31:49 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:31:49] "[37mGET /userinfo?selection=study1 HTTP/1.1[0m" 200 -
+05/07/2021 22:31:53 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 22:31:53 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:31:53] "[32mPOST /verify_user?selection=study1 HTTP/1.1[0m" 302 -
+05/07/2021 22:31:53 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:31:53] "[35m[1mGET /study1?userid=0923809423 HTTP/1.1[0m" 500 -
+05/07/2021 22:31:53 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:31:53] "[37mGET /study1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/07/2021 22:31:53 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:31:53] "[37mGET /study1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/07/2021 22:31:53 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:31:53] "[37mGET /study1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/07/2021 22:31:53 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:31:53] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/07/2021 22:31:54 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:31:54] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/07/2021 22:32:07 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 22:32:07 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 22:32:08 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 22:32:08 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 22:32:09 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 22:32:09 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 22:32:09 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 22:32:09 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 22:32:12 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 22:32:12 - ERROR - dbConnector.py - add_user - 58 : UNIQUE constraint failed: users.netid
+Traceback (most recent call last):
+  File "/home/hasnain/Desktop/codes/survey_portal-study2/dbConnector.py", line 55, in add_user
+    c.execute(f"INSERT INTO users (netid, age, internet_use) VALUES ({netid}, {age}, {internet_use});")
+sqlite3.IntegrityError: UNIQUE constraint failed: users.netid
+05/07/2021 22:32:12 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:32:12] "[37mPOST /verify_user?selection=study1 HTTP/1.1[0m" 200 -
+05/07/2021 22:32:15 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 22:32:16 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:32:16] "[32mPOST /verify_user?selection=study1 HTTP/1.1[0m" 302 -
+05/07/2021 22:32:16 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:32:16] "[35m[1mGET /study1?userid=09238094233 HTTP/1.1[0m" 500 -
+05/07/2021 22:32:16 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:32:16] "[37mGET /study1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/07/2021 22:32:16 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:32:16] "[37mGET /study1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/07/2021 22:32:16 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:32:16] "[37mGET /study1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/07/2021 22:32:16 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:32:16] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/07/2021 22:32:42 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 22:32:42 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:32:42] "[32mPOST /verify_user?selection=study1 HTTP/1.1[0m" 302 -
+05/07/2021 22:32:43 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:32:43] "[35m[1mGET /study1?userid=092380942332 HTTP/1.1[0m" 500 -
+05/07/2021 22:32:43 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:32:43] "[37mGET /study1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/07/2021 22:32:43 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:32:43] "[37mGET /study1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/07/2021 22:32:43 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:32:43] "[37mGET /study1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/07/2021 22:32:43 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:32:43] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/07/2021 22:33:01 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:33:01] "[37mGET /userinfo?selection=study2 HTTP/1.1[0m" 200 -
+05/07/2021 22:33:05 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:33:05] "[37mGET /userinfo?selection=study1 HTTP/1.1[0m" 200 -
+05/07/2021 22:33:31 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 22:33:31 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 22:33:31 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 22:33:31 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 22:33:33 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:33:33] "[37mGET /userinfo?selection=study1 HTTP/1.1[0m" 200 -
+05/07/2021 22:33:41 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 22:33:41 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:33:41] "[32mPOST /verify_user?selection=study1 HTTP/1.1[0m" 302 -
+05/07/2021 22:33:41 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:33:41] "[35m[1mGET /study1?userid=2342343242 HTTP/1.1[0m" 500 -
+05/07/2021 22:33:41 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:33:41] "[37mGET /study1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/07/2021 22:33:41 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:33:41] "[37mGET /study1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/07/2021 22:33:41 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:33:41] "[37mGET /study1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/07/2021 22:33:41 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:33:41] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/07/2021 22:34:22 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 22:34:22 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 22:34:23 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 22:34:23 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 22:34:32 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 22:34:33 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:34:33] "[32mPOST /verify_user?selection=study1 HTTP/1.1[0m" 302 -
+05/07/2021 22:34:33 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:34:33] "[35m[1mGET /study1?userid=23423432422 HTTP/1.1[0m" 500 -
+05/07/2021 22:34:33 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:34:33] "[37mGET /study1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/07/2021 22:34:33 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:34:33] "[37mGET /study1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/07/2021 22:34:33 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:34:33] "[37mGET /study1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/07/2021 22:34:33 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:34:33] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/07/2021 22:35:59 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 22:35:59 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 22:36:00 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 22:36:00 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 22:36:03 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 22:36:03 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:36:03] "[32mPOST /verify_user?selection=study1 HTTP/1.1[0m" 302 -
+05/07/2021 22:36:03 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:36:03] "[37mGET /study1?userid=234234324222 HTTP/1.1[0m" 200 -
+05/07/2021 22:44:44 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 22:44:44 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 22:47:38 - INFO - _internal.py - _log - 113 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+05/07/2021 22:47:38 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 22:47:38 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 22:47:38 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 22:47:43 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:47:43] "[35m[1mGET / HTTP/1.1[0m" 500 -
+05/07/2021 22:47:43 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:47:43] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/07/2021 22:47:43 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:47:43] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/07/2021 22:47:43 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:47:43] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/07/2021 22:47:44 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:47:44] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/07/2021 22:47:44 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:47:44] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/07/2021 22:48:59 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 22:48:59 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 22:49:11 - INFO - _internal.py - _log - 113 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+05/07/2021 22:49:11 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 22:49:12 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 22:49:12 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 22:49:13 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:49:13] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 22:49:16 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:49:16] "[37mGET /userinfo?selection=study1 HTTP/1.1[0m" 200 -
+05/07/2021 22:49:20 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 22:49:20 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:49:20] "[32mPOST /verify_user?selection=study1 HTTP/1.1[0m" 302 -
+05/07/2021 22:49:20 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:49:20] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 22:49:58 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:49:58] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 22:50:01 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:50:01] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 22:50:03 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:50:03] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 22:50:05 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:50:05] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 22:50:06 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:50:06] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 22:50:07 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:50:07] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 22:50:08 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:50:08] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 22:50:11 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:50:11] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 22:50:14 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:50:14] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 22:50:17 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:50:17] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 22:50:19 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:50:19] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 22:50:20 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:50:20] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 22:50:32 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 22:50:32 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 22:50:33 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 22:50:33 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 22:51:57 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 22:51:57 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 22:51:58 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 22:51:58 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 22:52:05 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 22:52:05 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 22:52:05 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 22:52:05 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 22:52:53 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 22:52:53 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 22:52:54 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 22:52:54 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 22:53:05 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 22:53:05 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 22:53:05 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 22:53:05 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 22:54:15 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 22:54:15 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 22:54:15 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 22:54:15 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 22:54:18 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:54:18] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 22:54:20 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:54:20] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 22:54:44 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 22:54:44 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 22:54:44 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 22:54:44 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 22:54:44 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:54:44] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 22:54:54 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:54:54] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 22:54:58 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:54:58] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 22:55:00 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:55:00] "[37mGET /userinfo?selection=study1 HTTP/1.1[0m" 200 -
+05/07/2021 22:55:05 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 22:55:06 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:55:06] "[32mPOST /verify_user?selection=study1 HTTP/1.1[0m" 302 -
+05/07/2021 22:55:06 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:55:06] "[37mGET /study1?userid=9348203948290 HTTP/1.1[0m" 200 -
+05/07/2021 22:55:12 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:55:12] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 22:55:14 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:55:14] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 22:55:23 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:55:23] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 22:55:31 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:55:31] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 22:55:33 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:55:33] "[37mGET /study1?userid=9348203948290 HTTP/1.1[0m" 200 -
+05/07/2021 22:55:35 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:55:35] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 22:57:58 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 22:57:58 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 22:57:59 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 22:57:59 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 22:58:14 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 22:58:14 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 22:58:14 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 22:58:14 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 22:58:15 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:58:15] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 22:58:21 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:58:21] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 22:58:22 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 22:58:22] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 23:03:12 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:03:12] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 23:03:29 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:03:29] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 23:04:15 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 23:04:15 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 23:04:15 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 23:04:15 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 23:04:16 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:04:16] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 23:04:18 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:04:18] "[37mGET /study1?userid=234223 HTTP/1.1[0m" 200 -
+05/07/2021 23:04:32 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:04:32] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 23:04:34 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:04:34] "[37mGET /userinfo?selection=study1 HTTP/1.1[0m" 200 -
+05/07/2021 23:04:41 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 23:04:42 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:04:42] "[32mPOST /verify_user?selection=study1 HTTP/1.1[0m" 302 -
+05/07/2021 23:04:42 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:04:42] "[37mGET /study1?userid=34324220 HTTP/1.1[0m" 200 -
+05/07/2021 23:04:44 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:04:44] "[37mGET /study1?userid=34324220 HTTP/1.1[0m" 200 -
+05/07/2021 23:04:58 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:04:58] "[37mGET /study1?userid=34324220 HTTP/1.1[0m" 200 -
+05/07/2021 23:05:27 - INFO - _internal.py - _log - 113 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+05/07/2021 23:05:27 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 23:05:27 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 23:05:27 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 23:05:30 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:05:30] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 23:05:32 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:05:32] "[37mGET /userinfo?selection=study1 HTTP/1.1[0m" 200 -
+05/07/2021 23:05:36 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 23:05:37 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:05:37] "[32mPOST /verify_user?selection=study1 HTTP/1.1[0m" 302 -
+05/07/2021 23:05:37 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:05:37] "[37mGET /study1?userid=2432 HTTP/1.1[0m" 200 -
+05/07/2021 23:06:09 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 23:06:09 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 23:06:09 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 23:06:09 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 23:06:10 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:06:10] "[37mGET /study1?userid=2432 HTTP/1.1[0m" 200 -
+05/07/2021 23:06:15 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:06:15] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 23:06:17 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:06:17] "[37mGET /userinfo?selection=study1 HTTP/1.1[0m" 200 -
+05/07/2021 23:06:51 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 23:06:51 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:06:51] "[32mPOST /verify_user?selection=study1 HTTP/1.1[0m" 302 -
+05/07/2021 23:06:51 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:06:51] "[37mGET /study1?userid=98432 HTTP/1.1[0m" 200 -
+05/07/2021 23:09:15 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:09:15] "[37mGET /study1?userid=98432 HTTP/1.1[0m" 200 -
+05/07/2021 23:10:26 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 23:10:26 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 23:10:26 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 23:10:26 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 23:10:29 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:10:29] "[37mGET /study1?userid=98432 HTTP/1.1[0m" 200 -
+05/07/2021 23:10:32 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:10:32] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 23:10:33 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:10:33] "[37mGET /userinfo?selection=study1 HTTP/1.1[0m" 200 -
+05/07/2021 23:10:37 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 23:10:38 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:10:38] "[32mPOST /verify_user?selection=study1 HTTP/1.1[0m" 302 -
+05/07/2021 23:10:38 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:10:38] "[37mGET /study1?userid=3432 HTTP/1.1[0m" 200 -
+05/07/2021 23:12:29 - INFO - _internal.py - _log - 113 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+05/07/2021 23:12:29 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 23:12:29 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 23:12:29 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 23:12:34 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:12:34] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 23:12:40 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:12:40] "[37mGET /userinfo?selection=study2 HTTP/1.1[0m" 200 -
+05/07/2021 23:12:47 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 23:12:49 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:12:49] "[32mPOST /verify_user?selection=study2 HTTP/1.1[0m" 302 -
+05/07/2021 23:12:49 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:12:49] "[37mGET /study2?userid=32498 HTTP/1.1[0m" 200 -
+05/07/2021 23:12:52 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:12:52] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 23:12:54 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:12:54] "[37mGET /userinfo?selection=study1 HTTP/1.1[0m" 200 -
+05/07/2021 23:12:58 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 23:13:00 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:13:00] "[32mPOST /verify_user?selection=study1 HTTP/1.1[0m" 302 -
+05/07/2021 23:13:00 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:13:00] "[37mGET /study1?userid=94389042 HTTP/1.1[0m" 200 -
+05/07/2021 23:15:42 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 23:15:42 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 23:15:42 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 23:15:42 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 23:16:14 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 23:16:14 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 23:16:14 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 23:16:14 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 23:16:21 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 23:16:21 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 23:16:22 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 23:16:22 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 23:16:27 - INFO - _internal.py - _log - 113 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+05/07/2021 23:16:27 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 23:16:28 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 23:16:28 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 23:16:32 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:16:32] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 23:16:34 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:16:34] "[37mGET /userinfo?selection=study1 HTTP/1.1[0m" 200 -
+05/07/2021 23:16:37 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 23:16:38 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:16:38] "[32mPOST /verify_user?selection=study1 HTTP/1.1[0m" 302 -
+05/07/2021 23:16:38 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:16:38] "[37mGET /study1?userid=2342 HTTP/1.1[0m" 200 -
+05/07/2021 23:17:24 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:17:24] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 23:17:25 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:17:25] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 23:17:27 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:17:27] "[37mGET /userinfo?selection=study1 HTTP/1.1[0m" 200 -
+05/07/2021 23:17:32 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 23:17:32 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:17:32] "[32mPOST /verify_user?selection=study1 HTTP/1.1[0m" 302 -
+05/07/2021 23:17:32 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:17:32] "[37mGET /study1?userid=34223 HTTP/1.1[0m" 200 -
+05/07/2021 23:17:44 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 23:17:44 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 23:17:44 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 23:17:44 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 23:17:46 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:17:46] "[37mGET /study1?userid=34223 HTTP/1.1[0m" 200 -
+05/07/2021 23:17:51 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:17:51] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 23:17:53 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:17:53] "[37mGET /userinfo?selection=study1 HTTP/1.1[0m" 200 -
+05/07/2021 23:17:57 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 23:17:57 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:17:57] "[32mPOST /verify_user?selection=study1 HTTP/1.1[0m" 302 -
+05/07/2021 23:17:57 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:17:57] "[37mGET /study1?userid=4320 HTTP/1.1[0m" 200 -
+05/07/2021 23:18:23 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 23:18:23 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 23:18:24 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 23:18:24 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 23:18:45 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 23:18:45 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 23:18:46 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 23:18:46 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 23:18:50 - INFO - _internal.py - _log - 113 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+05/07/2021 23:18:50 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 23:18:51 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 23:18:51 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 23:18:53 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:18:53] "[37mGET / HTTP/1.1[0m" 200 -
+05/07/2021 23:18:56 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:18:56] "[37mGET /userinfo?selection=study1 HTTP/1.1[0m" 200 -
+05/07/2021 23:18:59 - INFO - main.py - verify - 17 : application/x-www-form-urlencoded
+05/07/2021 23:19:01 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:19:01] "[32mPOST /verify_user?selection=study1 HTTP/1.1[0m" 302 -
+05/07/2021 23:19:01 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [07/May/2021 23:19:01] "[37mGET /study1?userid=32432 HTTP/1.1[0m" 200 -
+05/07/2021 23:20:50 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 23:20:50 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 23:20:50 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 23:20:50 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 23:21:35 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 23:21:35 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 23:21:36 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 23:21:36 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/07/2021 23:21:37 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/07/2021 23:21:37 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/07/2021 23:21:37 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/07/2021 23:21:37 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/08/2021 00:01:16 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/08/2021 00:01:17 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/08/2021 00:01:17 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/08/2021 00:01:17 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/08/2021 00:02:23 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/08/2021 00:02:23 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/08/2021 00:02:24 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/08/2021 00:02:24 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/08/2021 00:02:31 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/08/2021 00:02:31 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/08/2021 00:02:31 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/08/2021 00:02:31 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/08/2021 00:02:39 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/08/2021 00:02:39 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/08/2021 00:11:26 - INFO - _internal.py - _log - 113 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+05/08/2021 00:11:26 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/08/2021 00:11:26 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/08/2021 00:11:26 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/08/2021 00:11:28 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:11:28] "[37mGET / HTTP/1.1[0m" 200 -
+05/08/2021 00:11:31 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:11:31] "[37mGET /userinfo?selection=study1 HTTP/1.1[0m" 200 -
+05/08/2021 00:11:34 - INFO - main.py - verify - 19 : application/x-www-form-urlencoded
+05/08/2021 00:11:35 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:11:35] "[32mPOST /verify_user?selection=study1 HTTP/1.1[0m" 302 -
+05/08/2021 00:11:35 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:11:35] "[35m[1mGET /study1?userid=290898909 HTTP/1.1[0m" 500 -
+05/08/2021 00:11:35 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:11:35] "[37mGET /study1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/08/2021 00:11:35 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:11:35] "[37mGET /study1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/08/2021 00:11:35 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:11:35] "[37mGET /study1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/08/2021 00:11:35 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:11:35] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/08/2021 00:11:35 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:11:35] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/08/2021 00:11:56 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:11:56] "[35m[1mGET /study1?userid=290898909 HTTP/1.1[0m" 500 -
+05/08/2021 00:11:56 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:11:56] "[37mGET /study1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/08/2021 00:11:56 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:11:56] "[37mGET /study1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/08/2021 00:11:56 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:11:56] "[37mGET /study1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/08/2021 00:11:56 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:11:56] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/08/2021 00:11:56 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:11:56] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/08/2021 00:12:01 - INFO - main.py - verify - 19 : application/x-www-form-urlencoded
+05/08/2021 00:12:01 - ERROR - dbConnector.py - add_user - 58 : UNIQUE constraint failed: users.netid
+Traceback (most recent call last):
+  File "/home/hasnain/Desktop/codes/survey_portal-study2/dbConnector.py", line 55, in add_user
+    c.execute(f"INSERT INTO users (netid, age, internet_use) VALUES ({netid}, {age}, {internet_use});")
+sqlite3.IntegrityError: UNIQUE constraint failed: users.netid
+05/08/2021 00:12:01 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:01] "[37mPOST /verify_user?selection=study1 HTTP/1.1[0m" 200 -
+05/08/2021 00:12:04 - INFO - main.py - verify - 19 : application/x-www-form-urlencoded
+05/08/2021 00:12:05 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:05] "[32mPOST /verify_user?selection=study1 HTTP/1.1[0m" 302 -
+05/08/2021 00:12:05 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:05] "[35m[1mGET /study1?userid=29089890912 HTTP/1.1[0m" 500 -
+05/08/2021 00:12:05 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:05] "[37mGET /study1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/08/2021 00:12:05 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:05] "[37mGET /study1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/08/2021 00:12:05 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:05] "[37mGET /study1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/08/2021 00:12:05 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:05] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/08/2021 00:12:22 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:22] "[35m[1mGET /study1?userid=29089890912 HTTP/1.1[0m" 500 -
+05/08/2021 00:12:22 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:22] "[37mGET /study1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/08/2021 00:12:22 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:22] "[37mGET /study1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/08/2021 00:12:22 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:22] "[37mGET /study1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/08/2021 00:12:22 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:22] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/08/2021 00:12:22 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:22] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/08/2021 00:12:37 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:37] "[35m[1mGET /study1?userid=29089890912 HTTP/1.1[0m" 500 -
+05/08/2021 00:12:38 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:38] "[37mGET /study1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/08/2021 00:12:38 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:38] "[37mGET /study1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/08/2021 00:12:38 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:38] "[37mGET /study1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/08/2021 00:12:38 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:38] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/08/2021 00:12:38 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:38] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/08/2021 00:12:39 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:39] "[35m[1mGET /study1?userid=29089890912 HTTP/1.1[0m" 500 -
+05/08/2021 00:12:39 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:39] "[37mGET /study1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/08/2021 00:12:39 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:39] "[37mGET /study1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/08/2021 00:12:39 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:39] "[37mGET /study1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/08/2021 00:12:39 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:39] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/08/2021 00:12:39 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:39] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/08/2021 00:12:51 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:51] "[37mGET / HTTP/1.1[0m" 200 -
+05/08/2021 00:12:53 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:53] "[37mGET /userinfo?selection=study1 HTTP/1.1[0m" 200 -
+05/08/2021 00:12:56 - INFO - main.py - verify - 19 : application/x-www-form-urlencoded
+05/08/2021 00:12:57 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:57] "[32mPOST /verify_user?selection=study1 HTTP/1.1[0m" 302 -
+05/08/2021 00:12:57 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:57] "[35m[1mGET /study1?userid=33432423 HTTP/1.1[0m" 500 -
+05/08/2021 00:12:57 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:57] "[37mGET /study1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/08/2021 00:12:57 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:57] "[37mGET /study1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/08/2021 00:12:57 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:57] "[37mGET /study1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/08/2021 00:12:57 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:12:57] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/08/2021 00:13:28 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/08/2021 00:13:28 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/08/2021 00:13:29 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/08/2021 00:13:29 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/08/2021 00:13:29 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:13:29] "[37mGET /study1?userid=29089890912 HTTP/1.1[0m" 200 -
+05/08/2021 00:15:57 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:15:57] "[35m[1mGET /study1?userid=29089890912 HTTP/1.1[0m" 500 -
+05/08/2021 00:15:57 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:15:57] "[37mGET /study1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/08/2021 00:15:57 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:15:57] "[37mGET /study1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/08/2021 00:15:57 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:15:57] "[37mGET /study1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/08/2021 00:15:57 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:15:57] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/08/2021 00:15:57 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:15:57] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/08/2021 00:16:06 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:16:06] "[35m[1mGET /study1?userid=29089890912 HTTP/1.1[0m" 500 -
+05/08/2021 00:16:06 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:16:06] "[37mGET /study1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/08/2021 00:16:06 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:16:06] "[37mGET /study1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/08/2021 00:16:06 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:16:06] "[37mGET /study1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/08/2021 00:16:06 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:16:06] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/08/2021 00:16:06 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:16:06] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/08/2021 00:16:19 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:16:19] "[37mGET /study1?userid=29089890912 HTTP/1.1[0m" 200 -
+05/08/2021 00:17:41 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:17:41] "[37mGET /study1?userid=29089890912 HTTP/1.1[0m" 200 -
+05/08/2021 00:18:01 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:18:01] "[37mGET /study1?userid=29089890912 HTTP/1.1[0m" 200 -
+05/08/2021 00:18:15 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:18:15] "[37mGET /study1?userid=29089890912 HTTP/1.1[0m" 200 -
+05/08/2021 00:18:20 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:18:20] "[37mGET / HTTP/1.1[0m" 200 -
+05/08/2021 00:18:58 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:18:58] "[37mGET /study1?userid=33432423 HTTP/1.1[0m" 200 -
+05/08/2021 00:20:02 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:20:02] "[35m[1mGET /study1?userid=33432423 HTTP/1.1[0m" 500 -
+05/08/2021 00:20:03 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:20:03] "[37mGET /study1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/08/2021 00:20:03 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:20:03] "[37mGET /study1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/08/2021 00:20:03 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:20:03] "[37mGET /study1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/08/2021 00:20:03 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:20:03] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/08/2021 00:20:03 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:20:03] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/08/2021 00:20:27 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:20:27] "[35m[1mGET /study1?userid=33432423 HTTP/1.1[0m" 500 -
+05/08/2021 00:20:27 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:20:27] "[37mGET /study1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/08/2021 00:20:27 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:20:27] "[37mGET /study1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/08/2021 00:20:27 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:20:27] "[37mGET /study1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/08/2021 00:20:28 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:20:28] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/08/2021 00:20:28 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:20:28] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/08/2021 00:21:30 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:21:30] "[35m[1mGET /study1?userid=33432423 HTTP/1.1[0m" 500 -
+05/08/2021 00:21:30 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:21:30] "[37mGET /study1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/08/2021 00:21:30 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:21:30] "[37mGET /study1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/08/2021 00:21:30 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:21:30] "[37mGET /study1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/08/2021 00:21:30 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:21:30] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/08/2021 00:21:30 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:21:30] "[37mGET /study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/08/2021 00:21:43 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:21:43] "[37mGET /study1?userid=33432423 HTTP/1.1[0m" 200 -
+05/08/2021 00:22:02 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:22:02] "[37mGET /study1?userid=33432423 HTTP/1.1[0m" 200 -
+05/08/2021 00:22:13 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:22:13] "[37mGET /study1?userid=33432423 HTTP/1.1[0m" 200 -
+05/08/2021 00:23:27 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:23:27] "[37mGET /study1?userid=33432423 HTTP/1.1[0m" 200 -
+05/08/2021 00:24:58 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:24:58] "[37mGET /study1?userid=33432423 HTTP/1.1[0m" 200 -
+05/08/2021 00:25:07 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:25:07] "[37mGET /study1?userid=33432423 HTTP/1.1[0m" 200 -
+05/08/2021 00:26:00 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:26:00] "[37mGET /study1?userid=33432423 HTTP/1.1[0m" 200 -
+05/08/2021 00:26:12 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:26:12] "[37mGET /study1?userid=33432423 HTTP/1.1[0m" 200 -
+05/08/2021 00:26:31 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:26:31] "[37mGET /study1?userid=33432423 HTTP/1.1[0m" 200 -
+05/08/2021 00:26:51 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:26:51] "[37mGET /study1?userid=33432423 HTTP/1.1[0m" 200 -
+05/08/2021 00:27:47 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:27:47] "[37mGET /study1?userid=33432423 HTTP/1.1[0m" 200 -
+05/08/2021 00:27:59 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:27:59] "[37mGET /study1?userid=33432423 HTTP/1.1[0m" 200 -
+05/08/2021 00:28:20 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:28:20] "[37mGET /study1?userid=33432423 HTTP/1.1[0m" 200 -
+05/08/2021 00:28:22 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:28:22] "[37mGET /study1?userid=33432423 HTTP/1.1[0m" 200 -
+05/08/2021 00:28:25 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:28:25] "[37mGET /study1?userid=33432423 HTTP/1.1[0m" 200 -
+05/08/2021 00:28:59 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:28:59] "[37mGET /study1?userid=33432423 HTTP/1.1[0m" 200 -
+05/08/2021 00:29:15 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:29:15] "[37mGET /study1?userid=33432423 HTTP/1.1[0m" 200 -
+05/08/2021 00:29:18 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:29:18] "[37mGET /study1?userid=33432423 HTTP/1.1[0m" 200 -
+05/08/2021 00:29:19 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:29:19] "[37mGET /study1?userid=33432423 HTTP/1.1[0m" 200 -
+05/08/2021 00:29:57 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:29:57] "[37mGET /study1?userid=33432423 HTTP/1.1[0m" 200 -
+05/08/2021 00:30:03 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:30:03] "[37mGET /study1?userid=33432423 HTTP/1.1[0m" 200 -
+05/08/2021 00:30:09 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:30:09] "[37mGET /study1?userid=33432423 HTTP/1.1[0m" 200 -
+05/08/2021 00:30:30 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:30:30] "[37mGET /study1?userid=33432423 HTTP/1.1[0m" 200 -
+05/08/2021 00:30:39 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:30:39] "[37mGET /study1?userid=33432423 HTTP/1.1[0m" 200 -
+05/08/2021 00:32:22 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:32:22] "[37mGET /study1?userid=33432423 HTTP/1.1[0m" 200 -
+05/08/2021 00:36:03 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:36:03] "[37mGET /study1?userid=29089890912 HTTP/1.1[0m" 200 -
+05/08/2021 00:36:21 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:36:21] "[33mPOST /submit_study1?userid= HTTP/1.1[0m" 404 -
+05/08/2021 00:37:45 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:37:45] "[37mGET /study1?userid=29089890912 HTTP/1.1[0m" 200 -
+05/08/2021 00:37:46 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:37:46] "[37mGET /study1?userid=29089890912 HTTP/1.1[0m" 200 -
+05/08/2021 00:38:58 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/08/2021 00:38:58 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/08/2021 00:38:59 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/08/2021 00:38:59 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/08/2021 00:39:20 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/08/2021 00:39:20 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/08/2021 00:48:37 - INFO - _internal.py - _log - 113 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+05/08/2021 00:48:37 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/08/2021 00:48:38 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/08/2021 00:48:38 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/08/2021 00:48:41 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:48:41] "[37mGET / HTTP/1.1[0m" 200 -
+05/08/2021 00:48:43 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:48:43] "[37mGET /userinfo?selection=study1 HTTP/1.1[0m" 200 -
+05/08/2021 00:48:49 - INFO - main.py - verify - 19 : application/x-www-form-urlencoded
+05/08/2021 00:48:51 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:48:51] "[32mPOST /verify_user?selection=study1 HTTP/1.1[0m" 302 -
+05/08/2021 00:48:51 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:48:51] "[37mGET /study1?userid=242342 HTTP/1.1[0m" 200 -
+05/08/2021 00:49:01 - INFO - main.py - submit_study1 - 45 : application/x-www-form-urlencoded
+05/08/2021 00:49:01 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:49:01] "[35m[1mPOST /submit_study1?userid= HTTP/1.1[0m" 500 -
+05/08/2021 00:49:01 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:49:01] "[37mGET /submit_study1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/08/2021 00:49:01 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:49:01] "[37mGET /submit_study1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/08/2021 00:49:01 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:49:01] "[37mGET /submit_study1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/08/2021 00:49:01 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:49:01] "[37mGET /submit_study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/08/2021 00:49:01 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:49:01] "[37mGET /submit_study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/08/2021 00:49:40 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/dbConnector.py', reloading
+05/08/2021 00:49:40 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/08/2021 00:49:40 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/08/2021 00:49:40 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/08/2021 00:49:56 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/dbConnector.py', reloading
+05/08/2021 00:49:56 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/08/2021 00:49:57 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/08/2021 00:49:57 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/08/2021 00:50:05 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/dbConnector.py', reloading
+05/08/2021 00:50:05 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/08/2021 00:50:05 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/08/2021 00:50:05 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/08/2021 00:50:18 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/dbConnector.py', reloading
+05/08/2021 00:50:18 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/08/2021 00:50:18 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/08/2021 00:50:18 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/08/2021 00:50:27 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/dbConnector.py', reloading
+05/08/2021 00:50:27 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/08/2021 00:50:28 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/08/2021 00:50:28 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/08/2021 00:50:31 - INFO - _internal.py - _log - 113 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+05/08/2021 00:50:31 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/08/2021 00:50:31 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/08/2021 00:50:31 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/08/2021 00:50:34 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:50:34] "[37mGET / HTTP/1.1[0m" 200 -
+05/08/2021 00:50:36 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:50:36] "[37mGET /userinfo?selection=study1 HTTP/1.1[0m" 200 -
+05/08/2021 00:50:42 - INFO - main.py - verify - 19 : application/x-www-form-urlencoded
+05/08/2021 00:50:42 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:50:42] "[32mPOST /verify_user?selection=study1 HTTP/1.1[0m" 302 -
+05/08/2021 00:50:42 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:50:42] "[37mGET /study1?userid=123213 HTTP/1.1[0m" 200 -
+05/08/2021 00:50:57 - INFO - main.py - submit_study1 - 45 : application/x-www-form-urlencoded
+05/08/2021 00:50:57 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:50:57] "[35m[1mPOST /submit_study1?userid= HTTP/1.1[0m" 500 -
+05/08/2021 00:50:57 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:50:57] "[37mGET /submit_study1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05/08/2021 00:50:57 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:50:57] "[37mGET /submit_study1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05/08/2021 00:50:57 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:50:57] "[37mGET /submit_study1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05/08/2021 00:50:57 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:50:57] "[37mGET /submit_study1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05/08/2021 00:51:22 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/08/2021 00:51:22 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/08/2021 00:51:23 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/08/2021 00:51:23 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/08/2021 00:51:25 - INFO - _internal.py - _log - 113 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+05/08/2021 00:51:25 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/08/2021 00:51:25 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/08/2021 00:51:25 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/08/2021 00:51:27 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:51:27] "[37mGET /study1?userid=123213 HTTP/1.1[0m" 200 -
+05/08/2021 00:51:29 - INFO - main.py - submit_study1 - 45 : application/x-www-form-urlencoded
+05/08/2021 00:51:29 - ERROR - dbConnector.py - insert_study1 - 98 : near ",": syntax error
+Traceback (most recent call last):
+  File "/home/hasnain/Desktop/codes/survey_portal-study2/dbConnector.py", line 95, in insert_study1
+    c.execute(f"INSERT INTO study_one (user_id, review_id, question_id, value) VALUES ({user_id}, {review_id}, {question_id}, {value});")
+sqlite3.OperationalError: near ",": syntax error
+05/08/2021 00:51:29 - ERROR - dbConnector.py - insert_study1 - 98 : near ",": syntax error
+Traceback (most recent call last):
+  File "/home/hasnain/Desktop/codes/survey_portal-study2/dbConnector.py", line 95, in insert_study1
+    c.execute(f"INSERT INTO study_one (user_id, review_id, question_id, value) VALUES ({user_id}, {review_id}, {question_id}, {value});")
+sqlite3.OperationalError: near ",": syntax error
+05/08/2021 00:51:29 - ERROR - dbConnector.py - insert_study1 - 98 : near ",": syntax error
+Traceback (most recent call last):
+  File "/home/hasnain/Desktop/codes/survey_portal-study2/dbConnector.py", line 95, in insert_study1
+    c.execute(f"INSERT INTO study_one (user_id, review_id, question_id, value) VALUES ({user_id}, {review_id}, {question_id}, {value});")
+sqlite3.OperationalError: near ",": syntax error
+05/08/2021 00:51:29 - ERROR - dbConnector.py - insert_study1 - 98 : near ",": syntax error
+Traceback (most recent call last):
+  File "/home/hasnain/Desktop/codes/survey_portal-study2/dbConnector.py", line 95, in insert_study1
+    c.execute(f"INSERT INTO study_one (user_id, review_id, question_id, value) VALUES ({user_id}, {review_id}, {question_id}, {value});")
+sqlite3.OperationalError: near ",": syntax error
+05/08/2021 00:51:29 - ERROR - dbConnector.py - insert_study1 - 98 : near ",": syntax error
+Traceback (most recent call last):
+  File "/home/hasnain/Desktop/codes/survey_portal-study2/dbConnector.py", line 95, in insert_study1
+    c.execute(f"INSERT INTO study_one (user_id, review_id, question_id, value) VALUES ({user_id}, {review_id}, {question_id}, {value});")
+sqlite3.OperationalError: near ",": syntax error
+05/08/2021 00:51:29 - ERROR - dbConnector.py - insert_study1 - 98 : near ",": syntax error
+Traceback (most recent call last):
+  File "/home/hasnain/Desktop/codes/survey_portal-study2/dbConnector.py", line 95, in insert_study1
+    c.execute(f"INSERT INTO study_one (user_id, review_id, question_id, value) VALUES ({user_id}, {review_id}, {question_id}, {value});")
+sqlite3.OperationalError: near ",": syntax error
+05/08/2021 00:51:29 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:51:29] "[37mPOST /submit_study1?userid= HTTP/1.1[0m" 200 -
+05/08/2021 00:51:33 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:51:33] "[37mGET / HTTP/1.1[0m" 200 -
+05/08/2021 00:51:36 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:51:36] "[37mGET /userinfo?selection=study1 HTTP/1.1[0m" 200 -
+05/08/2021 00:51:49 - INFO - main.py - verify - 19 : application/x-www-form-urlencoded
+05/08/2021 00:51:50 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:51:50] "[32mPOST /verify_user?selection=study1 HTTP/1.1[0m" 302 -
+05/08/2021 00:51:50 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:51:50] "[37mGET /study1?userid=2232456 HTTP/1.1[0m" 200 -
+05/08/2021 00:52:02 - INFO - main.py - submit_study1 - 45 : application/x-www-form-urlencoded
+05/08/2021 00:52:02 - ERROR - dbConnector.py - insert_study1 - 98 : near ",": syntax error
+Traceback (most recent call last):
+  File "/home/hasnain/Desktop/codes/survey_portal-study2/dbConnector.py", line 95, in insert_study1
+    c.execute(f"INSERT INTO study_one (user_id, review_id, question_id, value) VALUES ({user_id}, {review_id}, {question_id}, {value});")
+sqlite3.OperationalError: near ",": syntax error
+05/08/2021 00:52:02 - ERROR - dbConnector.py - insert_study1 - 98 : near ",": syntax error
+Traceback (most recent call last):
+  File "/home/hasnain/Desktop/codes/survey_portal-study2/dbConnector.py", line 95, in insert_study1
+    c.execute(f"INSERT INTO study_one (user_id, review_id, question_id, value) VALUES ({user_id}, {review_id}, {question_id}, {value});")
+sqlite3.OperationalError: near ",": syntax error
+05/08/2021 00:52:02 - ERROR - dbConnector.py - insert_study1 - 98 : near ",": syntax error
+Traceback (most recent call last):
+  File "/home/hasnain/Desktop/codes/survey_portal-study2/dbConnector.py", line 95, in insert_study1
+    c.execute(f"INSERT INTO study_one (user_id, review_id, question_id, value) VALUES ({user_id}, {review_id}, {question_id}, {value});")
+sqlite3.OperationalError: near ",": syntax error
+05/08/2021 00:52:02 - ERROR - dbConnector.py - insert_study1 - 98 : near ",": syntax error
+Traceback (most recent call last):
+  File "/home/hasnain/Desktop/codes/survey_portal-study2/dbConnector.py", line 95, in insert_study1
+    c.execute(f"INSERT INTO study_one (user_id, review_id, question_id, value) VALUES ({user_id}, {review_id}, {question_id}, {value});")
+sqlite3.OperationalError: near ",": syntax error
+05/08/2021 00:52:02 - ERROR - dbConnector.py - insert_study1 - 98 : near ",": syntax error
+Traceback (most recent call last):
+  File "/home/hasnain/Desktop/codes/survey_portal-study2/dbConnector.py", line 95, in insert_study1
+    c.execute(f"INSERT INTO study_one (user_id, review_id, question_id, value) VALUES ({user_id}, {review_id}, {question_id}, {value});")
+sqlite3.OperationalError: near ",": syntax error
+05/08/2021 00:52:02 - ERROR - dbConnector.py - insert_study1 - 98 : near ",": syntax error
+Traceback (most recent call last):
+  File "/home/hasnain/Desktop/codes/survey_portal-study2/dbConnector.py", line 95, in insert_study1
+    c.execute(f"INSERT INTO study_one (user_id, review_id, question_id, value) VALUES ({user_id}, {review_id}, {question_id}, {value});")
+sqlite3.OperationalError: near ",": syntax error
+05/08/2021 00:52:02 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:52:02] "[37mPOST /submit_study1?userid= HTTP/1.1[0m" 200 -
+05/08/2021 00:52:24 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/08/2021 00:52:24 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/08/2021 00:52:25 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/08/2021 00:52:25 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/08/2021 00:52:59 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:52:59] "[37mGET / HTTP/1.1[0m" 200 -
+05/08/2021 00:53:00 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:53:00] "[37mGET /userinfo?selection=study2 HTTP/1.1[0m" 200 -
+05/08/2021 00:53:06 - INFO - main.py - verify - 19 : application/x-www-form-urlencoded
+05/08/2021 00:53:06 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:53:06] "[32mPOST /verify_user?selection=study2 HTTP/1.1[0m" 302 -
+05/08/2021 00:53:06 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:53:06] "[37mGET /study2?userid=24234232 HTTP/1.1[0m" 200 -
+05/08/2021 00:53:26 - INFO - main.py - submit_study2 - 78 : application/x-www-form-urlencoded
+05/08/2021 00:53:28 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:53:28] "[37mPOST /submit_study2?userid=24234232 HTTP/1.1[0m" 200 -
+05/08/2021 00:53:32 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:53:32] "[37mGET / HTTP/1.1[0m" 200 -
+05/08/2021 00:53:34 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:53:34] "[37mGET /userinfo?selection=study1 HTTP/1.1[0m" 200 -
+05/08/2021 00:53:41 - INFO - main.py - verify - 19 : application/x-www-form-urlencoded
+05/08/2021 00:53:42 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:53:42] "[32mPOST /verify_user?selection=study1 HTTP/1.1[0m" 302 -
+05/08/2021 00:53:42 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:53:42] "[37mGET /study1?userid=4134343232 HTTP/1.1[0m" 200 -
+05/08/2021 00:54:11 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/08/2021 00:54:11 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/08/2021 00:54:11 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/08/2021 00:54:11 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/08/2021 00:54:14 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/08/2021 00:54:14 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/08/2021 00:54:15 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/08/2021 00:54:15 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/08/2021 00:54:18 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:54:18] "[37mGET / HTTP/1.1[0m" 200 -
+05/08/2021 00:54:20 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:54:20] "[37mGET /userinfo?selection=study1 HTTP/1.1[0m" 200 -
+05/08/2021 00:54:27 - INFO - main.py - verify - 19 : application/x-www-form-urlencoded
+05/08/2021 00:54:30 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:54:30] "[32mPOST /verify_user?selection=study1 HTTP/1.1[0m" 302 -
+05/08/2021 00:54:30 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:54:30] "[37mGET /study1?userid=11320982 HTTP/1.1[0m" 200 -
+05/08/2021 00:54:39 - INFO - main.py - submit_study1 - 45 : application/x-www-form-urlencoded
+05/08/2021 00:54:41 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 00:54:41] "[37mPOST /submit_study1?userid=11320982 HTTP/1.1[0m" 200 -
+05/08/2021 01:04:48 - INFO - _internal.py - _log - 113 :  * Detected change in '/home/hasnain/Desktop/codes/survey_portal-study2/main.py', reloading
+05/08/2021 01:04:48 - INFO - _internal.py - _log - 113 :  * Restarting with stat
+05/08/2021 01:04:48 - WARNING - _internal.py - _log - 113 :  * Debugger is active!
+05/08/2021 01:04:48 - INFO - _internal.py - _log - 113 :  * Debugger PIN: 369-166-869
+05/08/2021 01:05:00 - INFO - main.py - submit_study1 - 45 : application/x-www-form-urlencoded
+05/08/2021 01:05:01 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 01:05:01] "[37mPOST /submit_study1?userid=11320982 HTTP/1.1[0m" 200 -
+05/08/2021 01:05:39 - INFO - main.py - submit_study1 - 45 : application/x-www-form-urlencoded
+05/08/2021 01:05:41 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 01:05:41] "[37mPOST /submit_study1?userid=11320982 HTTP/1.1[0m" 200 -
+05/08/2021 01:05:57 - INFO - main.py - submit_study1 - 45 : application/x-www-form-urlencoded
+05/08/2021 01:05:59 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 01:05:59] "[37mPOST /submit_study1?userid=11320982 HTTP/1.1[0m" 200 -
+05/08/2021 01:07:04 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 01:07:04] "[37mGET /study1?userid=29089890912 HTTP/1.1[0m" 200 -
+05/08/2021 01:08:00 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 01:08:00] "[37mGET /study1?userid=29089890912 HTTP/1.1[0m" 200 -
+05/08/2021 01:08:00 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 01:08:00] "[37mGET /study1?userid=29089890912 HTTP/1.1[0m" 200 -
+05/08/2021 01:08:06 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 01:08:06] "[37mGET / HTTP/1.1[0m" 200 -
+05/08/2021 01:08:31 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 01:08:31] "[37mGET / HTTP/1.1[0m" 200 -
+05/08/2021 01:08:31 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 01:08:31] "[37mGET / HTTP/1.1[0m" 200 -
+05/08/2021 01:08:41 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 01:08:41] "[37mGET / HTTP/1.1[0m" 200 -
+05/08/2021 01:08:49 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 01:08:49] "[37mGET / HTTP/1.1[0m" 200 -
+05/08/2021 01:09:04 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 01:09:04] "[37mGET / HTTP/1.1[0m" 200 -
+05/08/2021 01:09:16 - INFO - _internal.py - _log - 113 : 127.0.0.1 - - [08/May/2021 01:09:16] "[37mGET / HTTP/1.1[0m" 200 -
